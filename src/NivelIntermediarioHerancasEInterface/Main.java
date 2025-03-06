@@ -1,9 +1,9 @@
-package NivelIntermediarioOutros;
-
-import NivelIntermediarioOutros.Ninja;
+package NivelIntermediarioHerancasEInterface;
 
 public class Main {
     public static void main(String[] args) {
+
+        //HERANCAS
 
         // Objeto 1
         Uzumaki Naruto = new Uzumaki();
@@ -35,6 +35,17 @@ public class Main {
         Hinata.aldeia = "Aldeia da folha";
         Hinata.idade = 16;
         Hinata.Byakugan();
+
+        Boruto Boruto = new Boruto();
+
+        Boruto.nome = "Boruto Hyuga Uzumaki";
+        Boruto.aldeia = "Boruto Hyuga Uzumaki";
+        Boruto.idade = 9;
+
+        Boruto.ModoSabioAtivado();
+        Boruto.AtivarOKarma();
+        Boruto.AtivarJougan();
+
 
 
     }

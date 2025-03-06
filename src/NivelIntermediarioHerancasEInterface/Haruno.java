@@ -1,4 +1,4 @@
-package NivelIntermediarioOutros;
+package NivelIntermediarioHerancasEInterface;
 
 public class Haruno extends Ninja{
 
