@@ -1,7 +1,9 @@
-package NivelIntermediario;
+package NivelIntermediarioCriandoObjetos;
 
 public class Main {
     public static void main(String[] args) {
+
+        // CRIANDO OBJETOS
 
         // Criar o ninja Naruto - Naruto é um OBJETO
         Ninja Naruto = new Ninja();

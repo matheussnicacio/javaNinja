@@ -1,6 +1,4 @@
-package NivelIntermediario;
-
-import java.util.Scanner;
+package NivelIntermediarioCriandoObjetos;
 
 public class Ninja {
 
