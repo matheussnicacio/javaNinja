@@ -10,8 +10,7 @@ public class Hokages {
 
 
     public Hokages() {
-        // Construtor vazio, sem argumentos ]
-
+        // Construtor vazio, sem argumentos
     }
 
     // Criar um construtor com argumento
