@@ -1,4 +1,4 @@
-package NivelIntermediarioFinalMethodsDeixandoMetodosConstantes;
+package NivelIntermediarioFinalMethodsDeixandoMetodosConstantesEFinalClass;
 
 
 public class Ninja implements EstrategiaDeBatalha {

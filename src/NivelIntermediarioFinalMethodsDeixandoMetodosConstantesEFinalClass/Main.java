@@ -1,7 +1,5 @@
-package NivelIntermediarioFinalMethodsDeixandoMetodosConstantes;
+package NivelIntermediarioFinalMethodsDeixandoMetodosConstantesEFinalClass;
 
-
-import NivelIntermediarioOverloadSobrecargaDeConstrutores.NivelNinja;
 
 public class Main {
 
@@ -20,6 +18,8 @@ public class Main {
         System.out.println(naruto.altura);
 
 
+        Anbu ninjaAnbu = new Anbu();
+        ninjaAnbu.nome = "Ninja Aleatorio";
 
         // Obj Uchiha
 

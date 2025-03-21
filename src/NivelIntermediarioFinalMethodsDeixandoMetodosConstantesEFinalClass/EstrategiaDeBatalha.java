@@ -1,4 +1,4 @@
-package NivelIntermediarioFinalMethodsDeixandoMetodosConstantes;
+package NivelIntermediarioFinalMethodsDeixandoMetodosConstantesEFinalClass;
 
 public interface EstrategiaDeBatalha {
 

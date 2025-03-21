@@ -1,6 +1,4 @@
-package NivelIntermediarioFinalMethodsDeixandoMetodosConstantes;
-
-import NivelIntermediarioOverloadSobrecargaDeConstrutores.NivelNinja;
+package NivelIntermediarioFinalMethodsDeixandoMetodosConstantesEFinalClass;
 
 public class Uchiha extends Ninja{
 
