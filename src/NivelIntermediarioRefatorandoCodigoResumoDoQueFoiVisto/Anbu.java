@@ -1,4 +1,4 @@
-package NivelIntermediarioFinalMethodsDeixandoMetodosConstantesEFinalClass;
+package NivelIntermediarioRefatorandoCodigoResumoDoQueFoiVisto;
 
 final public class Anbu {
 
@@ -8,4 +8,5 @@ final public class Anbu {
 
         System.out.println("Eu sou um ANBU");
     }
+
 }
