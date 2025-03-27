@@ -18,15 +18,12 @@ public class Main {
 
         Uchiha itachi = new Uchiha("Itachi Uchiha", "Aldeia da Folha", 27,60, NivelNinja.JOUNIN);
         itachi.habilidadeEspecial();
-        itachi.metodoProvisorio();
 
         System.out.println("-----------Madara Uchiha-------------");
 
         Uchiha madara = new Uchiha("Madara Uchiha", "Aldeia da Folha", 45, 30, NivelNinja.CHUUNIN);
         madara.habilidadeEspecial();
         madara.estrategiaDeBatalhaNinja();
-        madara.inteligenciaDeCombate();
-        madara.inteligenciaDeCombate(90);
 
         System.out.println("------------------------------------");
 
