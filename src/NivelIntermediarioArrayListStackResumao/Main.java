@@ -42,6 +42,7 @@ public class Main {
         System.out.println(nomeNinjaList);
 
         System.out.println("---------- STACKS ----------");
+
         Stack<String> nomeNinjaStack = new Stack<>();
         nomeNinjaStack.push("Naruto Uzumaki");
         nomeNinjaStack.push("Sasuke Uchiha");
