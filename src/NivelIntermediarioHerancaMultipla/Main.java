@@ -11,8 +11,6 @@ public class Main {
         sasuke.idade = 18;
         sasuke.sharinganAtivado();
 
-
-
         // Obj Hatake
 
         Hatake kakashi = new Hatake();
